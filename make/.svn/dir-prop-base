@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 118
+
+
+Cycle.class
+Main$Build$1.class
+Main$Build.class
+Main$DAG$1.class
+Main$DAG.class
+Main.class
+Rule.class
+Testing.class
+
+END

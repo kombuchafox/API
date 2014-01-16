@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 156
+
+
+GraphsTesting.java
+Location.class
+Main$1.class
+Main$Distance.class
+Main$Location.class
+Main$Map.class
+Main.class
+Road.class
+Testing.class
+map02
+map03.txt
+
+END
